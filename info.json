@@ -1,0 +1,18 @@
+{
+   "home": {
+       "title": "HOME",
+       "description": "Esto es el HOME",
+       "information": "Cras facilisis urna ornare ex volutpat, et convallis erat elementum. Ut aliquam, ipsum vitae gravida suscipit, metus dui bibendum est, eget rhoncus nibh metus nec massa. Maecenas hendrerit laoreet augue nec molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis a turpis sed lacus dapibus elementum sed eu lectus."
+   },
+   "stuff": {
+        "title": "STUFF",
+        "description": "Esto es el STUFF",
+        "information": "Mauris sem velit, vehicula eget sodales vitae, rhoncus eget sapien: Nulla pulvinar diam"
+    },
+    "contact": {
+        "title": "CONTACT",
+        "description": "GOT QUESTIONS?",
+        "information": "The easiest thing to do is post on our forums."
+    }
+}
+  
